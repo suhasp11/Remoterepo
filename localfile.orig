@@ -1,13 +1,13 @@
 <<<<<<< HEAD
-master
+||||||| merged common ancestors
+feature
+=======
+feature branch
+>>>>>>> feature
+
+master branch	
 
 
 
 commiting to feature branch editing in masterand  editing to occur master
-
-||||||| merged common ancestors
-local to remote	
-=======
-feature
->>>>>>> feature
 

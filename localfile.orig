@@ -1,11 +1,13 @@
-local to remote	
-
 <<<<<<< HEAD
+master
+
+
 
 commiting to feature branch editing in masterand  editing to occur master
 
 ||||||| merged common ancestors
-commiting to feature branch editing to occur conflicts
+local to remote	
 =======
-commiting to feature branch editing to occur conflicts localfile
+feature
 >>>>>>> feature
+
